@@ -13,9 +13,9 @@ namespace Web_Project1_C_.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "Jello World from Home Controller Index Method";
         }
 
         public IActionResult Privacy()

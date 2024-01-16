@@ -1,4 +1,5 @@
-﻿{
+﻿
+{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
@@ -15,7 +16,7 @@
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5241",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Jello"
       }
     },
     "IIS Express": {
